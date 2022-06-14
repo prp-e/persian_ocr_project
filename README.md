@@ -13,3 +13,5 @@ Now I started working on the whole idea and this repository will be updated for 
 - Model: [YOLOv5](https://github.com/ultralytics/yolov5)
 
 ## Project Phases
+
+This part has been divided to two. First part is mostly considered _lab phase_ since we're working as a group of data scientists and AI enthusiasts to develop and deploy our model and the second part is also considered as _business/product phase_ and we try to present the result as a product to the outside world. 
