@@ -32,4 +32,7 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
 - Letter recognition
 - Word detection
 - Jupyter notebook for people who want to test the model. 
+
 ### Business/Product phases
+
+- Designing a web service for production.
