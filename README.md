@@ -2,4 +2,6 @@
 
 ## Important Notes
 
+## Project Technical Details
+
 ## Project Phases
