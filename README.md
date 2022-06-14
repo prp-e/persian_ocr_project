@@ -31,4 +31,5 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
         - [ ] Test on different numbers, both hand-written and digital.
 - Letter recognition
 - Word detection
+- Jupyter notebook for people who want to test the model. 
 ### Business/Product phases
