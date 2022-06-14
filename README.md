@@ -30,7 +30,15 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - Final Tests
         - [ ] Test on different numbers, both hand-written and digital.
 - Letter recognition
+    - [ ] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
+    - [ ] Training YOLOv5 on generated data.
+    - Testing the results.
+        - [ ] Test on different words with the same font.
+        - [ ] Test on the same or different words written in different fonts.
+    - [ ] Gathering hand-written words data.
+    - [ ] Final tests.
 - Word detection
+    - [ ] Training the YOLOv5 model on how to detect words in a sentence.
 - Jupyter notebook for people who want to test the model. 
 
 ### Business/Product phases
