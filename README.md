@@ -8,4 +8,8 @@ Now I started working on the whole idea and this repository will be updated for 
 
 ## Project Technical Details
 
+- Programming Language: Python 3 (3.9 on local machine, remote machines depend on where we do our tasks)
+- AI library: PyTorch
+- Model: [YOLOv5](https://github.com/ultralytics/yolov5)
+
 ## Project Phases
