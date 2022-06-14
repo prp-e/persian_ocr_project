@@ -29,5 +29,6 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - [ ] Training YOLOv5 on both hand-written and digital numbers.
     - Final Tests
         - [ ] Test on different numbers, both hand-written and digital.
-
+- Letter recognition
+- Word detection
 ### Business/Product phases
