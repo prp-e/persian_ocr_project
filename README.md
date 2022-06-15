@@ -8,6 +8,7 @@ Now I started working on the whole idea and this repository will be updated for 
 
 - This project is published under _GNU GPL version 3.0_ license. I assure everyone who's concerned that as long as I, _Muhammadreza Haghiri_ am in charge of this project the license will remain the same.
 - If some parties decide to acquire this project and want a change in license, I'll try to negotiate to keep it Free (as in freedom).
+- In the `.gitignore` file, we've ignored image files. It doesn't mean that our dataset won't be free. It will get so large so we've decided to ignore them in this repository, but we'll let you download data (raw or labeled) in near future.
 
 ## Project Technical Details
 
