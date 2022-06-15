@@ -6,6 +6,9 @@ Now I started working on the whole idea and this repository will be updated for 
 
 ## Important Notes
 
+- This project is published under _GNU GPL version 3.0_ license. I assure everyone who's concerned that as long as I, _Muhammadreza Haghiri_ am in charge of this project the license will remain the same.
+- If some parties decide to acquire this project and want a change in license, I'll try to negotiate to keep it Free (as in freedom).
+
 ## Project Technical Details
 
 - Programming Language: Python 3 (3.9 on local machine, remote machines depend on where we do our tasks)
