@@ -27,8 +27,8 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - [x] Training YOLOv5 on generated data.
     - Testing the result.
         - [x] Test on different numbers written on the same fonts.
-        - [ ] Test on same or different numbers written in different fonts.
-        - [ ] Test on hand-written numbers to find out how accurate our model is.
+        - [x] Test on same or different numbers written in different fonts.
+        - [x] Test on hand-written numbers to find out how accurate our model is.
     - [ ] Asking participants to write down some random numbers (Data generation for hand-written numbers)
     - [ ] Training YOLOv5 on both hand-written and digital numbers.
     - Final Tests
