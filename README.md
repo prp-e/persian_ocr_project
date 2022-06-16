@@ -30,8 +30,7 @@ Links to models and datasets will be available here soon.
 - Screenshot from telegram:
 ![data](number_result_2.png)
 
-
-
+- Final tests
 
 ## Project Phases
 
