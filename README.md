@@ -23,7 +23,7 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
 ### Lab phases
 
 - Number recognition
-    - [ ] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
+    - [x] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
     - [ ] Training YOLOv5 on generated data.
     - Testing the result.
         - [ ] Test on different numbers written on the same fonts.
