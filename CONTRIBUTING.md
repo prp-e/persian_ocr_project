@@ -22,3 +22,7 @@ Of course the list above will be updated when project progressed.
 - Make all your desired changes, push it to your forked repository and then submit a PR.
 
 ### Important notes about PR's
+
+- PR's are always welcome. But some may not meet the standards of the project. If your PR hasn't been accepted by us without any explanation, you're free to ask for a reason. 
+- If one of your PR's rejected, do not panic and do not worry. It's not a date, it's an open source project. So you have the chance to be accepted for another contribution. 
+- We currently (as of June 17th 2022) have developed no real application around these models or datasets. So we won't accept PR's claiming to develop a tool around our work. Also we haven't released any model or dataset to the date. Please be patient about tools we're providing. After that, you have our warmest welcomes for PR's and stuff. 
