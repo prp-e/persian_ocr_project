@@ -54,7 +54,8 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - Final Tests
         - [ ] Test on different numbers, both hand-written and digital.
 - Letter recognition
-    - [ ] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
+    - [x] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
+        - Instead of generating our own data, data gathered from [Shotor](https://github.com/amirabbasasadi/Shotor).
     - [ ] Training YOLOv5 on generated data.
     - Testing the results.
         - [ ] Test on different words with the same font.
