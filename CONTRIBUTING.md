@@ -12,6 +12,6 @@ We love to have your help in the project. At the current stage of the project, t
 
 Of course the list above will be updated when project progressed.
 
-## PR Structions 
+## How to send a PR?
 
 _TO BE CONTINUED_.
