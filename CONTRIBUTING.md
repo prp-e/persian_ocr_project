@@ -14,4 +14,11 @@ Of course the list above will be updated when project progressed.
 
 ## How to send a PR?
 
-_TO BE CONTINUED_.
+- First, you have to create a fork of your own. 
+- Then you have to clone it to your local computer (we assume your github id is _john_):
+    ```git clone https://github.com/john/persian_ocr_project``` 
+- After that please create a new branch and do not touch `main`, `development` or any other branch which we're working on. For creating a branch you just need to do this:
+    ```git checkout -b my-awesome-branch```
+- Make all your desired changes, push it to your forked repository and then submit a PR.
+
+### Important notes about PR's
