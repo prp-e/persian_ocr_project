@@ -1,0 +1,40 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../numbers/ # dataset root dir
+train: images  # train images (relative to 'path') 128 images
+val: images  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 32  # number of classes
+names: ['alef',
+ 'be',
+ 'pe',
+ 'te',
+ 'the',
+ 'jim',
+ 'che',
+ 'he',
+ 'khe',
+ 'dal',
+ 'zal',
+ 're',
+ 'ze',
+ 'zhe',
+ 'sin',
+ 'shin',
+ 'sad',
+ 'zad',
+ 'ta',
+ 'za',
+ 'ein',
+ 'qein',
+ 'fe',
+ 'quf',
+ 'kaf',
+ 'gaf',
+ 'lam',
+ 'mim',
+ 'nun',
+ 'vav',
+ 'he_docheshm',
+ 'ye']
