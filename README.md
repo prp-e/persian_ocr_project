@@ -56,10 +56,10 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
 - Letter recognition
     - [x] Data generation using [Zarnevis](https://github.com/prp-e/zarnevis).
         - Instead of generating our own data, data gathered from [Shotor](https://github.com/amirabbasasadi/Shotor).
-    - [ ] Training YOLOv5 on generated data.
+    - [x] Training YOLOv5 on generated data.
     - Testing the results.
-        - [ ] Test on different words with the same font.
-        - [ ] Test on the same or different words written in different fonts.
+        - [x] Test on different words with the same font.
+        - [x] Test on the same or different words written in different fonts.
     - [ ] Gathering hand-written words data.
     - [ ] Final tests.
 - Word detection
