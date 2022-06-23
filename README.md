@@ -18,7 +18,10 @@ Now I started working on the whole idea and this repository will be updated for 
 
 ## Models and Datasets
 
-Links to models and datasets will be available here soon.
+## Models for June 23rd 2022
+
+* [Letters](https://persianocr.cam/models/letters.pt)
+* [Numbers](https://persianocr.cam/models/numbers.pt)
 
 ## Results
 
