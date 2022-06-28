@@ -71,6 +71,8 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - [ ] Final tests.
 - Word detection
     - [ ] Training the YOLOv5 model on how to detect words in a sentence.
+- Punctuation Detection
+    - [ ] Training the YOLOv5 model to detect punctuations. 
 - Jupyter notebook for people who want to test the model. 
 
 ### Business/Product phases
