@@ -179,3 +179,4 @@ cython_debug/
 
 *.jpg
 *.pt
+*.pdf
