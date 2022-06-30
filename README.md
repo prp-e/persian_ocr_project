@@ -71,6 +71,9 @@ This part has been divided to two. First part is mostly considered _lab phase_ s
     - [ ] Final tests.
 - Word detection
     - [ ] Training the YOLOv5 model on how to detect words in a sentence.
+        - [ ] Getting books and articles 
+        - [ ] Converting PDFs to Images for the sake of labeling 
+        - [ ] Create a labeled dataset for words, numbers and maybe English words
 - Punctuation Detection
     - [ ] Training the YOLOv5 model to detect punctuations. 
 - Jupyter notebook for people who want to test the model. 
